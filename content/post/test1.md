@@ -6,7 +6,7 @@ lastmod: 2018-09-26
 date: 2022-07-22T16:29:13+08:00
 draft: false
 tags : ["我的博客标签",]
-categories : ["我的博客分类",]
+categories : ["fenlei",]
 keywords : ["我的博客关键字",]
 
 ---
