@@ -6,3 +6,4 @@ draft: false
 
 Aboout test
 
+中文测试
