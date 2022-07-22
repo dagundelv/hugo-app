@@ -1,2 +1,2 @@
-# blog
-blog hugo 
+# HUGO APP
+blog:blog hugo 
