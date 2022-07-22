@@ -5,11 +5,13 @@ theme = "hyde"
 
 [Menus]
   main = [
-      {Name = "博客文章", URL = "/post/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/dagundelv/"},
+      {Name = "Github", URL = "https://github.com/dagundelv/"},
       {Name = "TAGS", URL = "/tags/"},
       {Name = "关于", URL = "/about/"},
-      {Name = "Github", URL = "https://github.com/dagundelv/"},
-      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/dagundelv/"}
+      {Name = "博客文章", URL = "/post/"}
+      
+      
   ]
  [params]
   description = "瞎写的"
