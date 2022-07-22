@@ -1,11 +1,11 @@
 ---
-title: "测试标题"
+title: "测试标题1"
 author: "作者"  
 description : "这是描述信息"    
 lastmod: 2018-09-26      
 date: 2022-07-22T16:29:13+08:00
 draft: false
-tags : ["我的博客标签",]
+tags : ["tags",]
 categories : ["fenlei",]
 keywords : ["我的博客关键字",]
 
