@@ -7,6 +7,7 @@ theme = "hyde"
   main = [
       {Name = "博客文章", URL = "post/"},
       {Name = "TAGS", URL = "tags/"},
+      {Name = "关于", URL = "about/"},
       {Name = "Github", URL = "https://github.com/dagundelv/"},
       {Name = "LinkedIn", URL = "https://www.linkedin.com/in/dagundelv/"}
   ]
