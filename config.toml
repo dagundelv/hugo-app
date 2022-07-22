@@ -5,8 +5,8 @@ theme = "hyde"
 
 [Menus]
   main = [
-      {Name = "博客文章", URL = baseURL"post/"},
-      {Name = "TAGS", URL = baseURL"tags/"},
+      {Name = "博客文章", URL = "post/"},
+      {Name = "TAGS", URL = "tags/"},
       {Name = "关于", URL = baseURL."about/"},
       {Name = "Github", URL = "https://github.com/dagundelv/"},
       {Name = "LinkedIn", URL = "https://www.linkedin.com/in/dagundelv/"}
