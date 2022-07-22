@@ -1,2 +1,1 @@
-# blog
-blog hugo 
+# Hugo Portio themes
