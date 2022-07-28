@@ -5,7 +5,7 @@ theme = "hyde"
 
 [Menus]
   main = [
-      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/incinta/"},
+      {Name = "LinkedIn", URL = "https://www.facebook.com/IncintaFertility"},
       {Name = "Github", URL = "https://github.com/incinta/"},
       {Name = "TAGS", URL = "/tags/"},
       {Name = "关于", URL = "/about/"},
