@@ -1,12 +1,12 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = '打滚的驴'
+title = 'Incinta'
 theme = "hyde"
 
 [Menus]
   main = [
-      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/dagundelv/"},
-      {Name = "Github", URL = "https://github.com/dagundelv/"},
+      {Name = "LinkedIn", URL = "https://www.facebook.com/IncintaFertility"},
+      {Name = "Github", URL = "https://github.com/incinta/"},
       {Name = "TAGS", URL = "/tags/"},
       {Name = "关于", URL = "/about/"},
       {Name = "博客文章", URL = "/post/"}
