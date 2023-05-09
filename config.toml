@@ -14,7 +14,7 @@ theme = "hyde"
       
   ]
  [params]
-  description = "瞎写的"
+  description = "瞎写的!"
   themeColor = "theme-base-0e"
   # layoutReverse = true
   disqusShortname = "spf13"
